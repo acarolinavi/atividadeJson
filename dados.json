@@ -1,0 +1,105 @@
+{
+    "Loja": "Irineu Store",
+    "Bemvindo": "",
+    "Notebook": [
+        {
+            "Tipo": "Notebook",
+            "Marca": "Vaio",
+            "Modelo": "FE15",
+            "Preço": 2500,
+            "Disponível": true,
+            "Cores": [
+                "Cinza","Preto"
+            ]
+        },
+        {
+            "Tipo": "Notebook",
+            "Marca": "Dell",
+            "Modelo": "Latitude 3540",
+            "Preço": 4000,
+            "Disponível": false,
+            "Cores": [
+                "Prata","Vermelho"
+            ]
+        },
+        {
+            "Tipo": "Notebook",
+            "Marca": "Lenovo",
+            "Modelo": "Ideapad",
+            "Preço": 2800,
+            "Disponível": true,
+            "Cores": [
+                "Preto","Verde"
+            ]
+        }        
+    ],
+    
+             
+    
+    "Celular": [
+        {
+            "Tipo": "Celular",
+            "Marca": "Apple",
+            "Modelo": "15 PRO MAX",
+            "Preço": 11.600,
+            "Disponível": true,
+            "Cores": [
+                "Branco","Gold"
+            ]
+        },
+        {
+            "Tipo": "Celular",
+            "Marca": "Samsung",
+            "Modelo": "S24",
+            "Preço": 8.900,
+            "Disponível": true,
+            "Cores": [
+                "Titânio Preto","Cinza"
+            ]
+        },
+        {
+            "Tipo": "Celular",
+            "Marca": "Xiaomi",
+            "Modelo": "Redmi Note 13",
+            "Preço": 1.899,
+            "Disponível": false,
+            "Cores": [
+                "Azul","Preto"
+            ]
+        }
+        
+    ],
+    "Acessorios": [
+        {
+            "Tipo": "Acessórios",
+            "Marca": "JBL",
+            "Modelo": "HeadPhone",
+            "Preço": 400,
+            "Disponível": true,
+            "Cores": [
+                "Vermelho","Preto"
+            ]
+        },
+        {
+            "Tipo": "Acessórios",
+            "Marca": "LG",
+            "Modelo": "Monitor UltraWide 29",
+            "Preço": 1100,
+            "Disponível": false,
+            "Cores": [
+                "Cinza","Preto"
+            ]
+        },
+        {
+            "Tipo": "Acessórios",
+            "Marca": "Loewe",
+            "Modelo": "TV LED Ultra HD",
+            "Preço": 200,
+            "Disponível": true,
+            "Cores": [
+                "Preto","Grafite"
+            ]
+        }
+        
+    ]
+}
